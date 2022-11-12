@@ -1,7 +1,7 @@
 dist: release
 release:
   github:
-    owner: evcc-io
+    owner: simowNgithub
     name: evcc
 
 builds:
