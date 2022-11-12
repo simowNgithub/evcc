@@ -8,7 +8,7 @@ type (
 	ChangeConfigStatus string
 )
 
-const BASE_URL string = "https://api.daheimladen.com/v1"
+const BASE_URL string = "https://beta.api.daheimladen.com/v1"
 
 const (
 	AVAILABLE ChargePointStatus = "Available"
